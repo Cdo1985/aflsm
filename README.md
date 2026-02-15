@@ -1,10 +1,11 @@
-# AFL Stats Matcher - 2024 Season
+# AFL Stats Matcher - 2026 Season
 
-Match your AFL playing statistics with professional players! Compares your per-game averages against 50+ real AFL players from the 2024 season.
+Match your AFL playing statistics with professional players! Compares your per-game averages against 50+ real AFL players from the 2025 season.
+
 
 ## 🎯 Features
 
-- ✅ **50+ Real AFL Players** - 2024 season stats
+- ✅ **50+ Real AFL Players** - 2025 season stats
 - ✅ **11 Statistical Categories** - Disposals, Kicks, Handballs, Marks, Tackles, Goals, Behinds, Clearances, Inside 50s, Contested/Uncontested Possessions
 - ✅ **18 AFL Positions** - From Full Forward to Ruck to Centre
 - ✅ **Smart Matching Algorithm** - Weighted similarity scoring with position bonuses
